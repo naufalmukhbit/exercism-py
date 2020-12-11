@@ -1,4 +1,2 @@
-import re
-
-a = "          "
-print(re.search(r'\w+',a))
+a = "cdisiahcbdjksjbefej"
+print(sorted(a))
